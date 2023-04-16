@@ -16,3 +16,4 @@ spec:
     version: 7.1.0
     env: dev
   type: NodePort
+
